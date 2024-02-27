@@ -1,0 +1,28 @@
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\bin\Debug\net8.0\რიცხვის გამოცნობა.exe
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\bin\Debug\net8.0\რიცხვის გამოცნობა.deps.json
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\bin\Debug\net8.0\რიცხვის გამოცნობა.runtimeconfig.json
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\bin\Debug\net8.0\რიცხვის გამოცნობა.dll
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\bin\Debug\net8.0\რიცხვის გამოცნობა.pdb
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.AssemblyInfoInputs.cache
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.AssemblyInfo.cs
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.csproj.CoreCompileInputs.cache
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.dll
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\refint\რიცხვის გამოცნობა.dll
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.pdb
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.genruntimeconfig.cache
+C:\Users\kacha\source\repos\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\ref\რიცხვის გამოცნობა.dll
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\bin\Debug\net8.0\რიცხვის გამოცნობა.exe
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\bin\Debug\net8.0\რიცხვის გამოცნობა.deps.json
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\bin\Debug\net8.0\რიცხვის გამოცნობა.runtimeconfig.json
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\bin\Debug\net8.0\რიცხვის გამოცნობა.dll
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\bin\Debug\net8.0\რიცხვის გამოცნობა.pdb
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.AssemblyInfoInputs.cache
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.AssemblyInfo.cs
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.csproj.CoreCompileInputs.cache
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.dll
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\refint\რიცხვის გამოცნობა.dll
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.pdb
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\რიცხვის გამოცნობა.genruntimeconfig.cache
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\ფინალური პროექტები\რიცხვის გამოცნობა\რიცხვის გამოცნობა\obj\Debug\net8.0\ref\რიცხვის გამოცნობა.dll
