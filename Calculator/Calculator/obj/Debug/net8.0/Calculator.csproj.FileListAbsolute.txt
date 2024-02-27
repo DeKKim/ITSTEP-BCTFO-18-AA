@@ -1,0 +1,14 @@
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\kacha\OneDrive\Desktop\HTM.CSS.JS\Final Projects\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
